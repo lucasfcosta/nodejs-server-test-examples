@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-server-test-examples",
+  "description": "A repository with examples of how to write tests for Node.js servers.",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "url": "git+https://github.com/lucasfcosta/nodejs-server-test-examples.git",
+    "type": "git"
+  },
+  "author": "Lucas Fernandes da Costa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lucasfcosta/nodejs-server-test-examples/issues"
+  },
+  "homepage": "https://github.com/lucasfcosta/nodejs-server-test-examples#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "mongoose": "^4.9.2"
+  }
+}
